@@ -2,7 +2,7 @@
 # My GitHub profile
 > 👋 Hi, I’m Imran
 > 
-> 👀 I’m a software developer with a strong background in web development using HTML, CSS, JavaScript, PHP, and MySQL. I also have hands-on experience with React and Next.js for building fast, responsive web applications.
+> 👀 I’m a software developer with a strong background in web development using HTML, CSS, and JavaScript. I also have hands-on experience with React and Next.js for building fast, responsive web applications.
 > 
 > I’m a creative and detail-oriented coder who values clean, maintainable code. I enjoy learning new technologies and improving workflow efficiency. I’m also comfortable with modern development tools and practices, including npm and Git for project management and version control.
 > 

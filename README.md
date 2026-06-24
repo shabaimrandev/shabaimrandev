@@ -11,7 +11,7 @@
 >>
 >> [My Portfolio](https://imran-usman-shaba-portfolio.netlify.app/)
 >>
->> [Instagram](https://www.instagram.com/devleapcts?igsh=dDFkbTQ5MHlicm80&utm_source=qr)
+>> [Instagram](https://www.instagram.com/shabaimrandev?igsh=dDFkbTQ5MHlicm80&utm_source=qr)
 >> 
 >> [Linkedin](https://www.linkedin.com/in/imran-usman-shaba-4372291a9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnH98boaBQxSPVzBepithLg%3D%3D)
 >>

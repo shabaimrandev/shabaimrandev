@@ -10,9 +10,7 @@
 >
 > 🎓 I also teach full-stack development — leading instruction at DevLeap Tech Institute and previously at Jerro Computer School — so I write code that's easy for other people to read and review
 > 
-> 📫 Open to freelance and remote full-stack work: shabaimrandev@gmail.com
+> 📫 Open to freelance and remote full-stack work:
 > 
 >>
 >> [shabaimrandev@gmail.com](mailto:shabaimrandev@gmail.com)
->>
->>[Linkedin](https://www.linkedin.com/in/imran-usman-shaba-4372291a9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnH98boaBQxSPVzBepithLg%3D%3D)

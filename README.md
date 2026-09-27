@@ -1,10 +1,10 @@
 
 # My GitHub profile
-> 👋 Hi, I’m Imran
+> 👋 Hi, I’m Imran, a full-stack software engineer and founder of DevLeap.
 > 
-> 👀 I’m a software developer with a strong background in web development using HTML, CSS, and JavaScript. I also have hands-on experience with React and Node.js for building fast, responsive web applications.
+> 🛠️ I build production web applications end-to-end — from database schema and API design to the frontend. Core stack: TypeScript, React, Next.js, Node.js, Express.js, PostgreSQL.
 > 
-> I’m a creative and detail-oriented coder who values clean, maintainable code. I enjoy learning new technologies and improving workflow efficiency. I’m also comfortable with modern development tools and practices, including Git for project management and version control.
+> I independently designed and built DevLeap — a live, multi-role school management platform with role-based dashboards for admins, teachers, and students — and AgroTrack, a live agricultural supply-chain platform connecting farmers, buyers, and aggregators.
 > 
 > 📫 You can reach me via the following platforms:
 > 
